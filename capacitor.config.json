@@ -1,0 +1,6 @@
+{
+  "appId": "com.nammakadai.app",
+  "appName": "Namma Kadai",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
